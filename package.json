@@ -1,6 +1,6 @@
 {
   "name": "gulp-tojson",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "main": "lib/gulp-transform.js",
   "description": "A gulp plugin for transforming data, e.g. CSV to JSON, TSV to CSV, etc.",
   "homepage": "https://github.com/dengbotian/gulp-tojson",
